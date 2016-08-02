@@ -290,7 +290,7 @@
 ---
 
 🏁 🍇
-  😀 🔤Hello, EmojiCode.🔤
+  😀 🔤Hello, Emojicode.🔤
 🍉
 
 ---
@@ -772,7 +772,7 @@ You can even make line breaks. 👵`
 #[fit] 🌏🌍🌎
 ---
 
-#[fit] [github.com/fpg1503/EmojiCodeTalk](https://github.com/fpg1503/EmojiCodeTalk)
+#[fit] [github.com/fpg1503/EmojicodeTalk](https://github.com/fpg1503/EmojicodeTalk)
 
 ---
 
