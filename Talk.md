@@ -34,6 +34,81 @@
 
 ---
 
+#[fit] Consortium
+
+---
+
+#[fit] 90s 🇯🇵
+
+
+---
+
+#[fit] +1000 Emoji!
+
+---
+
+#[fit] ZWJ
+
+---
+
+#[fit] Zero width-joiner
+
+---
+
+#[fit] Olympics Rings
+
+---
+
+#[fit] Diversity
+
+---
+
+#[fit] Gender equality
+
+---
+
+#[fit] Fitzpatrick Modifier
+
+---
+
+#[fit] You can request
+#[fit] your own emoji!
+
+---
+
+#[fit] Unicode 10.0 (2017)
+
+---
+
+#[fit] Why would I
+#[fit] code in **Emoji**?
+
+---
+
+#[fit] 💖✨
+
+---
+
+#[fit] 📃🏌
+
+---
+
+#[fit] ???
+
+---
+
+#[fit] Github
+
+---
+
+#[fit] [github.com/emojicode](https://github.com/emojicode)
+
+---
+
+#[fit] 🏁🏁
+
+---
+
 #[fit] Basic
 #[fit] types
 
